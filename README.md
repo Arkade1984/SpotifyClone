@@ -1,3 +1,18 @@
+## Hi There, I am Akarsh Barar
+
+This is a Spotify Clone App.
+It has spotify authentication and will fetch the dicover daily feed of spotify.
+The Play song part is still under development so it will not work.
+
+Basically it is a Spotify UI clone using ReactJs.
+and if everything works fine in future app will be deployed on any hosting servers like firebase or heroku.
+
+
+if you like any thing please give a star.
+Thank you.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
